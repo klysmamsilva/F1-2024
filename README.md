@@ -1,13 +1,13 @@
-# Formula 1 Temporada 2022
+# Formula 1 Temporada 2024
 
-                                            Tabela de Classificação
-![image](https://github.com/klysmamsilva/F1-2022/assets/87070813/7989a9d5-c2de-4f58-86df-db0057794fc3)
+                                             Tabela de Classificação 📋
+![Tabela de Classificação](https://github.com/user-attachments/assets/c145ca2f-9322-44dc-8cf6-047a4fd0f085)
 
-                                              Tabela de Ciruitos
-![image](https://github.com/klysmamsilva/F1-2022/assets/87070813/da87c52b-19fb-4ace-bf40-4c31a1658fbe)
+                                              Tabela de Ciruitos 🗾                                     
+![Tabela de Ciruitos](https://github.com/user-attachments/assets/1ecbccb8-d185-42e5-9192-f816a1a20a9b)
 
-                                              Tabela de Pilotos
-![image](https://github.com/klysmamsilva/F1-2022/assets/87070813/7d697df2-bd4c-4e51-8960-98090fb6fe15)
+                                              Tabela de Pilotos 🏎
+![Tabela de Pilotos](https://github.com/user-attachments/assets/e023145e-33a9-4c93-b381-e1f2da7d10ad)
 
-                                              Tabela de Equipes
-![image](https://github.com/klysmamsilva/F1-2022/assets/87070813/662ab066-9d3b-4e36-acbc-1e36c3905a25)
+                                              Tabela de Equipes 📌
+![Tabela de Equipes](https://github.com/user-attachments/assets/c4f37477-3f54-4fc6-8e7a-463ed7a41c1a)
