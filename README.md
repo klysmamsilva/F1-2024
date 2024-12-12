@@ -1,13 +1,13 @@
 # Formula 1 Temporada 2024
 
                                              Tabela de Classificação 📋
-![Tabela de Classificação](https://github.com/user-attachments/assets/c145ca2f-9322-44dc-8cf6-047a4fd0f085)
+![Classificação](https://github.com/user-attachments/assets/94f043e3-5c7d-4658-a3cb-000a3bd39a18)
 
                                               Tabela de Ciruitos 🗾                                     
-![Tabela de Ciruitos](https://github.com/user-attachments/assets/1ecbccb8-d185-42e5-9192-f816a1a20a9b)
+![Circuitos](https://github.com/user-attachments/assets/6fae6e43-ffdd-4593-93b6-2ba3981ecb16)
 
                                               Tabela de Pilotos 🏎
-![Tabela de Pilotos](https://github.com/user-attachments/assets/e023145e-33a9-4c93-b381-e1f2da7d10ad)
+![Pilotos](https://github.com/user-attachments/assets/2008da2e-5772-417b-aaba-58ca31b9d2b1)
 
-                                              Tabela de Equipes 📌
-![Tabela de Equipes](https://github.com/user-attachments/assets/c4f37477-3f54-4fc6-8e7a-463ed7a41c1a)
+                                              Tabela de Equipes 📌                                             
+![Equipes](https://github.com/user-attachments/assets/21959c14-1cae-4bee-b980-b691fcd56e42)
